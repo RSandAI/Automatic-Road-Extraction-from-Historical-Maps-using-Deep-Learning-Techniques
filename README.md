@@ -26,9 +26,7 @@ The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *
 Citation
 ---------------------
 
-Please kindly cite the paper below if this code is useful and helpful for your research.
-
-*TBD*
+Ekim, B.; Sertel, E.; Kabadayı, M.E. Automatic Road Extraction from Historical Maps Using Deep Learning Techniques: A Regional Case Study of Turkey in a German World War II Map. ISPRS Int. J. Geo-Inf. 2021, 10, 492. https://doi.org/10.3390/ijgi10080492
 
 
 Contact Information
